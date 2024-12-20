@@ -26,7 +26,7 @@ zeek_user: zeek
 # Zeek can use GeoIP data; including where to find it
 #
 zeek_geoip: true
-zeek_geoip_db_url: http://geolite.maxmind.com/download/geoip/database/GeoLite2-City.tar.gz
+zeek_geoip_db_url: https://github.com/DocSpring/geolite2-city-mirror/raw/refs/heads/master/GeoLite2-City.tar.gz
 
 # This interface will be listened to
 #
